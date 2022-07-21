@@ -12,3 +12,4 @@ dependencies:
   - r-plotly
   - r-stringr
   - r-caret
+  - r-ellipse
