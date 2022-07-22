@@ -13,3 +13,5 @@ dependencies:
   - r-stringr
   - r-caret
   - r-ellipse
+  - r-kernlab
+  - r-randomForest
